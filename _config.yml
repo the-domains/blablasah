@@ -1,6 +1,6 @@
 name: Blablasah
 favicon: null
-layout_spectrum: 0.23896412109024823
+layout_spectrum: 0
 typography_spectrum: 0.9331327311228961
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.7437335366848856
+  brandStrength: 0.6875
   lightness: 0.7044689415488392
   saturation: 0.8893857072107494
   rhythmicContrast: 0.2764744497835636
